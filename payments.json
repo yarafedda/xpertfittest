@@ -1,0 +1,10 @@
+{
+    "status":true,
+    "message":"payment returned successfully",
+    "data":[
+        {
+            "id":1,
+            "amount":50
+        }
+    ]
+}
